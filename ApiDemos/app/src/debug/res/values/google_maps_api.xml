@@ -12,6 +12,7 @@
     the demo app.
     -->
     <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
-        YOUR_KEY_HERE
+        AIzaSyA6qH7FsPOkOUmH4SQJ9yLeZoK618X6T88
     </string>
+
 </resources>
